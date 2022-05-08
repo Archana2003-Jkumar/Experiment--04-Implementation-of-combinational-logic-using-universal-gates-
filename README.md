@@ -56,6 +56,8 @@ endmodule
 ## Output:
 
 ## Truthtable
+![Truth01](./Truth01.png)
+![Truth02](./Truth02.png)
 
 
 ##  RTL realization
